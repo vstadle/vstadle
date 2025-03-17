@@ -1,5 +1,5 @@
-<h1>👋 Hello ! I am Olivier (also known as Gabelloide), a 20 years old french student in computer science.</h1>
-💻 Studying at Télécom SudParis.<br>🧧 Check out my portfolio: https://gabelloide.github.io !
+<h1>👋 Hello ! I am Valentin , a 20 years old french student in computer science.</h1>
+💻 Studying at INSA Centre Val De Loire.<br>
 
 ![Snake animation](https://github.com/vstadler/vstadle/blob/output/github-contribution-grid-snake-dark.svg)
 
